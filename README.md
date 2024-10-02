@@ -4,7 +4,9 @@ A Sentiment Analysis Project for classification of positive and negative movie r
 
 ## Descripton 🎬🎭
 
-Used different stages of Machine Learning pipeline to analyze the Sentiment
+- This project compares the accuracies obtained between different neural network models including- Simple Neural Network(SNN),Convolutional Neural Network(CNN) and Re-current Neural Networks(RNN)
+- It also analyzes performance between using TF-IDF vectorizer and Glove-embedding on a SNN.
+- Used different stages of Machine Learning pipeline to analyze the Sentiment
 
 #### 1. Data Collection
 
