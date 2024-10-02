@@ -62,3 +62,5 @@ Finally, Run the scripts or files in the correct order using the Jupyter Noteboo
 ## Results 📈
 
 ![Results and Outcomes](https://github.com/SahilTuladhar/ReelFeel/blob/master/images/results.png)
+
+- For detailed information regarding the results please check out the pdf link given
