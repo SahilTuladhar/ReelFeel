@@ -1,5 +1,7 @@
 # ReelFeel - Sentiment Analysis Application
 
+![Reelfeel Logo]()
+
 A Sentiment Analysis Project for classification of positive and negative movie reviews and comments using Natural Language Processing(NLP)
 
 ## Descripton 🎬🎭
@@ -59,5 +61,4 @@ Finally, Run the scripts or files in the correct order using the Jupyter Noteboo
 
 ## Results 📈
 
-![Results and Outcomes](results\Flowchart.jpg)
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Results and Outcomes](https://github.com/SahilTuladhar/ReelFeel/blob/master/images/results.png)
