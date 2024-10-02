@@ -1,6 +1,6 @@
 # ReelFeel - Sentiment Analysis Application
 
-![Reelfeel Logo]()
+![Reelfeel Logo](https://github.com/SahilTuladhar/ReelFeel/blob/master/images/Logo.png)
 
 A Sentiment Analysis Project for classification of positive and negative movie reviews and comments using Natural Language Processing(NLP)
 
